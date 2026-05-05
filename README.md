@@ -16,6 +16,7 @@ Se utiliza NetworkX y Matplotlib para representar los aminoácidos como un grafo
 - Las conexiones representan la secuencia
 - Los colores representan el tipo
 
-##Autor
+## Autor
 Emma Sofia Trevilla
+
 Ana Sofia Machuca Ledezma
